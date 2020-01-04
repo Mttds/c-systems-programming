@@ -1,4 +1,3 @@
-# Systems programming in C
 <h1>Systems programming in C</h1>
 
 <p>manipulation</p>
